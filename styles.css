@@ -1,6 +1,51 @@
 body{
-    background-image: linear-gradient(to right top, #6bd1ae, #70d5b4, #75daba, #7adec0, #7fe2c6, #7ce3c9, #78e4cb, #75e5ce, #67e4cf, #56e3d0, #40e1d1, #1de0d3);
-
+    background-color: aqua;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(250, 251, 247);
+    color: black;
     }
+
+main{
+    width: 730px;
+    margin: 30px auto;
+    display :flex;
+    align-items: center;
+}    
+.section1{
+    
+    padding: 0 10px 10px 10px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+button{
+    height:100px;
+    width: 100px;
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+
+}
+.section2{
+    
+    width: 250px; 
+    height: 390px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 0 20px;
+}
+
+.estadisticas{
+    border: 1px solid black;
+    height: 105px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 20px;
+
+}
+
+footer{
+    text-align: center;
+
+}
