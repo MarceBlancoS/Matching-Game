@@ -1,0 +1,1 @@
+let nombres =[ rojo,rojo,verde,verde,azul,azul,amarillo,amarillo,blanco,blanco,naranja,naranja,marron,marron,rosa,rosa];

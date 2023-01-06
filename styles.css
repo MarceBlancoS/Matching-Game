@@ -1,12 +1,14 @@
 body{
-    background-color: aqua;
+    background-color:#74ebd5;
+    background: -webkit-linear-gradient(to right, #acb6e5, #74ebd5);
+    background: linear-gradient(to right, #acb6e5,#74ebd5);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
     }
 
 main{
     width: 730px;
-    margin: 30px auto;
+    margin: 100px auto;
     display :flex;
     align-items: center;
 }    
